@@ -1,0 +1,25 @@
+{
+  "name": "taxes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madelinepick/taxes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madelinepick/taxes/issues"
+  },
+  "homepage": "https://github.com/madelinepick/taxes#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
