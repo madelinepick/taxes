@@ -17,4 +17,5 @@ module.exports = {
      tax = (2.2+ ((income-30)*0.03));
      return tax;
    }
+ }
 }
